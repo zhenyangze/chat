@@ -1,0 +1,202 @@
+2019-03-22 23:45:27 pid:29033 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:05:17 pid:29033 Workerman[start.php] stopping ...
+2019-03-23 00:05:18 pid:29033 Workerman[start.php] has been stopped
+2019-03-23 00:05:42 pid:31697 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:05:48 pid:31720 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:07:01 pid:31720 Workerman[start.php] stopping ...
+2019-03-23 00:07:02 pid:31720 Workerman[start.php] has been stopped
+2019-03-23 00:42:27 pid:36446 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:42:49 pid:36446 Workerman[start.php] stopping ...
+2019-03-23 00:42:49 pid:36446 Workerman[start.php] has been stopped
+2019-03-23 00:43:25 pid:36801 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:43:25 pid:36810 Worker[36810] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:26 pid:36801 worker[Register:36810] exit with status 65280
+2019-03-23 00:43:26 pid:36811 Worker[36811] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:26 pid:36801 worker[Register:36811] exit with status 65280
+2019-03-23 00:43:26 pid:36812 Worker[36812] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:26 pid:36801 worker[Register:36812] exit with status 65280
+2019-03-23 00:43:26 pid:36813 Worker[36813] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:26 pid:36801 worker[Register:36813] exit with status 65280
+2019-03-23 00:43:27 pid:36814 Worker[36814] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:27 pid:36801 worker[Register:36814] exit with status 65280
+2019-03-23 00:43:27 pid:36815 Worker[36815] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:27 pid:36801 worker[Register:36815] exit with status 65280
+2019-03-23 00:43:27 pid:36816 Worker[36816] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:27 pid:36801 worker[Register:36816] exit with status 65280
+2019-03-23 00:43:27 pid:36817 Worker[36817] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:27 pid:36801 worker[Register:36817] exit with status 65280
+2019-03-23 00:43:27 pid:36818 Worker[36818] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:27 pid:36801 worker[Register:36818] exit with status 65280
+2019-03-23 00:43:28 pid:36819 Worker[36819] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:28 pid:36801 worker[Register:36819] exit with status 65280
+2019-03-23 00:43:28 pid:36821 Worker[36821] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:28 pid:36801 worker[Register:36821] exit with status 65280
+2019-03-23 00:43:28 pid:36822 Worker[36822] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:28 pid:36801 worker[Register:36822] exit with status 65280
+2019-03-23 00:43:28 pid:36823 Worker[36823] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:28 pid:36801 worker[Register:36823] exit with status 65280
+2019-03-23 00:43:28 pid:36824 Worker[36824] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:28 pid:36801 worker[Register:36824] exit with status 65280
+2019-03-23 00:43:29 pid:36825 Worker[36825] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:29 pid:36801 worker[Register:36825] exit with status 65280
+2019-03-23 00:43:29 pid:36829 Worker[36829] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:29 pid:36801 worker[Register:36829] exit with status 65280
+2019-03-23 00:43:29 pid:36830 Worker[36830] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:29 pid:36801 worker[Register:36830] exit with status 65280
+2019-03-23 00:43:29 pid:36831 Worker[36831] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:29 pid:36801 worker[Register:36831] exit with status 65280
+2019-03-23 00:43:29 pid:36832 Worker[36832] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:29 pid:36801 worker[Register:36832] exit with status 65280
+2019-03-23 00:43:29 pid:36833 Worker[36833] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:29 pid:36801 worker[Register:36833] exit with status 65280
+2019-03-23 00:43:30 pid:36834 Worker[36834] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:30 pid:36801 worker[Register:36834] exit with status 65280
+2019-03-23 00:43:30 pid:36836 Worker[36836] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:30 pid:36801 worker[Register:36836] exit with status 65280
+2019-03-23 00:43:30 pid:36837 Worker[36837] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:30 pid:36801 worker[Register:36837] exit with status 65280
+2019-03-23 00:43:30 pid:36838 Worker[36838] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:30 pid:36801 worker[Register:36838] exit with status 65280
+2019-03-23 00:43:30 pid:36839 Worker[36839] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:30 pid:36801 worker[Register:36839] exit with status 65280
+2019-03-23 00:43:30 pid:36840 Worker[36840] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:30 pid:36801 worker[Register:36840] exit with status 65280
+2019-03-23 00:43:31 pid:36841 Worker[36841] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:31 pid:36801 worker[Register:36841] exit with status 65280
+2019-03-23 00:43:31 pid:36842 Worker[36842] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:31 pid:36801 worker[Register:36842] exit with status 65280
+2019-03-23 00:43:31 pid:36843 Worker[36843] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:31 pid:36801 worker[Register:36843] exit with status 65280
+2019-03-23 00:43:31 pid:36844 Worker[36844] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:31 pid:36801 worker[Register:36844] exit with status 65280
+2019-03-23 00:43:31 pid:36845 Worker[36845] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:31 pid:36801 worker[Register:36845] exit with status 65280
+2019-03-23 00:43:31 pid:36846 Worker[36846] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:31 pid:36801 worker[Register:36846] exit with status 65280
+2019-03-23 00:43:32 pid:36847 Worker[36847] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:32 pid:36801 worker[Register:36847] exit with status 65280
+2019-03-23 00:43:32 pid:36853 Worker[36853] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:32 pid:36801 worker[Register:36853] exit with status 65280
+2019-03-23 00:43:32 pid:36854 Worker[36854] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:32 pid:36801 worker[Register:36854] exit with status 65280
+2019-03-23 00:43:32 pid:36855 Worker[36855] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:32 pid:36801 worker[Register:36855] exit with status 65280
+2019-03-23 00:43:32 pid:36856 Worker[36856] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:32 pid:36801 worker[Register:36856] exit with status 65280
+2019-03-23 00:43:32 pid:36857 Worker[36857] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:32 pid:36801 worker[Register:36857] exit with status 65280
+2019-03-23 00:43:33 pid:36858 Worker[36858] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:33 pid:36801 worker[Register:36858] exit with status 65280
+2019-03-23 00:43:33 pid:36860 Worker[36860] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:33 pid:36801 worker[Register:36860] exit with status 65280
+2019-03-23 00:43:33 pid:36861 Worker[36861] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:33 pid:36801 worker[Register:36861] exit with status 65280
+2019-03-23 00:43:33 pid:36862 Worker[36862] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:33 pid:36801 worker[Register:36862] exit with status 65280
+2019-03-23 00:43:33 pid:36863 Worker[36863] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:33 pid:36801 worker[Register:36863] exit with status 65280
+2019-03-23 00:43:34 pid:36864 Worker[36864] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:34 pid:36801 worker[Register:36864] exit with status 65280
+2019-03-23 00:43:34 pid:36869 Worker[36869] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:34 pid:36801 worker[Register:36869] exit with status 65280
+2019-03-23 00:43:34 pid:36871 Worker[36871] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:34 pid:36801 worker[Register:36871] exit with status 65280
+2019-03-23 00:43:34 pid:36872 Worker[36872] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:34 pid:36801 worker[Register:36872] exit with status 65280
+2019-03-23 00:43:34 pid:36873 Worker[36873] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:34 pid:36801 worker[Register:36873] exit with status 65280
+2019-03-23 00:43:35 pid:36874 Worker[36874] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:35 pid:36801 worker[Register:36874] exit with status 65280
+2019-03-23 00:43:35 pid:36875 Worker[36875] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:35 pid:36801 worker[Register:36875] exit with status 65280
+2019-03-23 00:43:35 pid:36876 Worker[36876] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:35 pid:36801 worker[Register:36876] exit with status 65280
+2019-03-23 00:43:35 pid:36877 Worker[36877] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:35 pid:36801 worker[Register:36877] exit with status 65280
+2019-03-23 00:43:35 pid:36878 Worker[36878] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:35 pid:36801 worker[Register:36878] exit with status 65280
+2019-03-23 00:43:35 pid:36806 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:35 pid:36806 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:36 pid:36879 Worker[36879] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:36 pid:36801 worker[Register:36879] exit with status 65280
+2019-03-23 00:43:36 pid:36881 Worker[36881] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:36 pid:36801 worker[Register:36881] exit with status 65280
+2019-03-23 00:43:36 pid:36882 Worker[36882] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:36 pid:36801 worker[Register:36882] exit with status 65280
+2019-03-23 00:43:36 pid:36883 Worker[36883] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:36 pid:36801 worker[Register:36883] exit with status 65280
+2019-03-23 00:43:36 pid:36884 Worker[36884] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:36 pid:36801 worker[Register:36884] exit with status 65280
+2019-03-23 00:43:36 pid:36885 Worker[36885] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:36 pid:36801 worker[Register:36885] exit with status 65280
+2019-03-23 00:43:36 pid:36808 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:36 pid:36808 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:36 pid:36808 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:36 pid:36808 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:37 pid:36886 Worker[36886] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:37 pid:36801 worker[Register:36886] exit with status 65280
+2019-03-23 00:43:37 pid:36887 Worker[36887] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:37 pid:36801 worker[Register:36887] exit with status 65280
+2019-03-23 00:43:37 pid:36888 Worker[36888] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:37 pid:36801 worker[Register:36888] exit with status 65280
+2019-03-23 00:43:37 pid:36806 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:37 pid:36806 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:37 pid:36889 Worker[36889] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:37 pid:36801 worker[Register:36889] exit with status 65280
+2019-03-23 00:43:37 pid:36890 Worker[36890] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:37 pid:36801 worker[Register:36890] exit with status 65280
+2019-03-23 00:43:37 pid:36891 Worker[36891] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:37 pid:36801 worker[Register:36891] exit with status 65280
+2019-03-23 00:43:37 pid:36892 Worker[36892] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:37 pid:36801 worker[Register:36892] exit with status 65280
+2019-03-23 00:43:37 pid:36893 Worker[36893] process terminated with ERROR: E_ERROR "Call to undefined function GatewayWorker\json_decode() in /Users/yangze/Downloads/GatewayWorker/vendor/workerman/gateway-worker/src/Register.php on line 114"
+2019-03-23 00:43:37 pid:36801 worker[Register:36893] exit with status 65280
+2019-03-23 00:43:37 pid:36808 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:37 pid:36808 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2019-03-23 00:43:37 pid:36801 Workerman[start.php] stopping ...
+2019-03-23 00:43:37 pid:36801 Workerman[start.php] has been stopped
+2019-03-23 00:43:58 pid:36978 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:44:04 pid:36978 Workerman[start.php] stopping ...
+2019-03-23 00:44:04 pid:36978 Workerman[start.php] has been stopped
+2019-03-23 00:44:07 pid:37013 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:44:18 pid:37013 Workerman[start.php] stopping ...
+2019-03-23 00:44:18 pid:37013 Workerman[start.php] has been stopped
+2019-03-23 00:44:30 pid:37116 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:46:14 pid:37116 Workerman[start.php] stopping ...
+2019-03-23 00:46:14 pid:37116 Workerman[start.php] has been stopped
+2019-03-23 00:46:16 pid:37311 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:46:20 pid:37311 Workerman[start.php] stopping ...
+2019-03-23 00:46:20 pid:37311 Workerman[start.php] has been stopped
+2019-03-23 00:49:03 pid:37713 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:50:24 pid:37713 Workerman[start.php] stopping ...
+2019-03-23 00:50:24 pid:37713 Workerman[start.php] has been stopped
+2019-03-23 00:50:46 pid:37947 Workerman[start.php] start in DEBUG mode
+2019-03-23 00:50:59 pid:37947 Workerman[start.php] stopping ...
+2019-03-23 00:50:59 pid:37947 Workerman[start.php] has been stopped
+2019-03-23 01:05:44 pid:40646 Workerman[start.php] start in DEBUG mode
+2019-03-23 01:06:01 pid:40646 Workerman[start.php] stopping ...
+2019-03-23 01:06:01 pid:40646 Workerman[start.php] has been stopped
+2019-03-23 01:06:36 pid:40800 Workerman[start.php] start in DEBUG mode
+2019-03-23 01:07:12 pid:40800 Workerman[start.php] stopping ...
+2019-03-23 01:07:13 pid:40800 Workerman[start.php] has been stopped
+2019-03-23 01:10:24 pid:41529 Workerman[start.php] start in DEBUG mode
+2019-03-23 01:18:40 pid:41529 Workerman[start.php] stopping ...
+2019-03-23 01:18:41 pid:41529 Workerman[start.php] has been stopped
+2019-03-23 01:21:29 pid:43237 Workerman[start.php] start in DEBUG mode
+2019-03-23 01:21:30 pid:43237 Workerman[start.php] stopping ...
+2019-03-23 01:21:30 pid:43237 Workerman[start.php] has been stopped
+2019-03-23 01:23:43 pid:43742 Workerman[start.php] start in DEBUG mode
+2019-03-23 01:24:09 pid:43742 Workerman[start.php] stopping ...
+2019-03-23 01:24:09 pid:43742 Workerman[start.php] has been stopped
+2019-03-23 01:24:10 pid:43828 Workerman[start.php] start in DEBUG mode
+2019-03-23 01:33:57 pid:43828 Workerman[start.php] stopping ...
+2019-03-23 01:33:57 pid:43828 Workerman[start.php] has been stopped
+2019-03-23 01:33:58 pid:45186 Workerman[start.php] start in DEBUG mode
+2019-03-23 01:49:29 pid:45186 Workerman[start.php] stopping ...
+2019-03-23 01:49:29 pid:45186 Workerman[start.php] has been stopped
+2019-03-23 01:50:39 pid:47376 Workerman[start.php] start in DEBUG mode
+2019-03-23 01:52:30 pid:47376 Workerman[start.php] stopping ...
+2019-03-23 01:52:30 pid:47376 Workerman[start.php] has been stopped
+2019-03-23 01:55:58 pid:48203 Workerman[start.php] start in DEBUG mode
+2019-03-23 02:15:23 pid:48203 Workerman[start.php] stopping ...
+2019-03-23 02:15:23 pid:48203 Workerman[start.php] has been stopped

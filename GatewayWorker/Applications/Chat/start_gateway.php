@@ -15,10 +15,10 @@ use \Workerman\Worker;
 use \GatewayWorker\Gateway;
 use \Workerman\Autoloader;
 // 自动加载类
-require_once __DIR__ . '/../../Workerman/Autoloader.php';
-Autoloader::setRootPath(__DIR__);
+require_once __DIR__ . '/../../vendor/autoload.php';    
+//Autoloader::setRootPath(__DIR__);
 // gateway 进程
-$gateway = new Gateway("Websocket://0.0.0.0:8585");
+$gateway = new Gateway("websocket://127.0.0.1:8585");
 // 设置名称，方便status时查看
 $gateway->name = 'ChatGateway';
 // 设置进程数，gateway进程数建议与cpu核数相同
@@ -34,7 +34,7 @@ $gateway->pingInterval = 10;
 $gateway->pingData = '{"type":"ping"}';
 // 服务注册地址
 $gateway->registerAddress = '127.0.0.1:1236';
-/**/
+/*
 // 当客户端连接上来时，设置连接的onWebSocketConnect，即在websocket握手时的回调
 $gateway->onConnect = function($connection)
 {
@@ -51,6 +51,8 @@ $gateway->onConnect = function($connection)
     };
 };
 // 如果不是在根目录启动，则运行runAll方法
+*/
+
 if(!defined('GLOBAL_START'))
 {
     Worker::runAll();

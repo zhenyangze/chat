@@ -4,7 +4,7 @@ use Think\Controller;
 class IndexController extends Controller {
     //聊天窗体生成
     public function index(){
-       $this->display();
+        $this->display();
     }
     //判断客服系统标识是否存在
     public function isExist(){
@@ -45,7 +45,7 @@ class IndexController extends Controller {
     public function message(){
         if(IS_POST && IS_AJAX){
             $data = I("post.");
-            if(empty($data['phone'])||empty($data['email'])||empty($data['message'])){
+            if(empty($data['phone'])||empty($data['email'])||empty($data['content'])){
                 $this->ajaxReturn(array("status" => 0, "info"=>"请填写完整留言内容"));
             }
             //公司是否存在
@@ -101,38 +101,38 @@ class IndexController extends Controller {
     private function themeStyle($style = 'default'){
         switch ($style)
         {
-            case 'default':
-                return '#3280fc';
-                break;
-            case 'blue':
-                return '#039BE5';
-                break;
-            case 'red':
-                return '#d9534f';
-                break;
-            case 'green':
-                return '#4caf50';
-                break;
-            case 'purple':
-                return '#8666b8';
-                break;
-            case 'brown':
-                return '#8D6E63';
-                break;
-            case 'yellow':
-                return '#d0884d';
-                break;
-            case 'indigo':
-                return '#3F51B5';
-                break;
-            case 'bluegrey':
-                return '#607D8B';
-                break;
-            case 'black':
-                return '#333';
-                break;
-            default:
-                return '#3280fc';
+        case 'default':
+            return '#3280fc';
+            break;
+        case 'blue':
+            return '#039BE5';
+            break;
+        case 'red':
+            return '#d9534f';
+            break;
+        case 'green':
+            return '#4caf50';
+            break;
+        case 'purple':
+            return '#8666b8';
+            break;
+        case 'brown':
+            return '#8D6E63';
+            break;
+        case 'yellow':
+            return '#d0884d';
+            break;
+        case 'indigo':
+            return '#3F51B5';
+            break;
+        case 'bluegrey':
+            return '#607D8B';
+            break;
+        case 'black':
+            return '#333';
+            break;
+        default:
+            return '#3280fc';
         }
     }
 }

@@ -9,11 +9,11 @@ namespace Config;
 class Db
 {
     public static $db = array(
-        'host'    => '121.199.40.122',
+        'host'    => '127.0.0.1',
         'port'    => 3306,
-        'user'    => 'yaojiajing',
-        'password' => 'yaojiajing',
-        'dbname'  => 'wechat',
+        'user'    => 'root',
+        'password' => 'root',
+        'dbname'  => 'chat',
         'charset'    => 'utf8'
     );
 }
